@@ -1,0 +1,1 @@
+- to run locally download the code and run the command npm run start
